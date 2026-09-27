@@ -1,0 +1,19 @@
+FIX MASTER — PÁGINAS INDIVIDUAIS PARA GOOGLE ADS
+
+Cada anúncio pode apontar diretamente para a página do respetivo serviço:
+
+- Esquentadores: esquentadores.html
+- Caldeiras: caldeiras.html
+- Termoacumuladores: termoacumuladores.html
+- Termossifão: termossifao.html
+- Bomba de Calor: bomba-de-calor.html
+- Eletricidade: eletricidade.html
+- Climatização: climatizacao.html
+- Assistência Técnica geral: assistencia-tecnica.html
+
+O menu "Serviços" agora possui submenu com acesso direto a todas estas páginas.
+
+Para anúncios de urgência, as páginas priorizam o botão de LIGAR para:
++351 928 310 677
+
+WhatsApp permanece como opção secundária para envio de detalhes/fotografias.

@@ -1,0 +1,40 @@
+FIX MASTER - SITE COM LOGO OFICIAL
+
+A logo enviada foi aplicada no cabeçalho e rodapé de todas as páginas.
+Também foi criado um favicon e a paleta visual foi ajustada para preto, laranja e azul.
+
+WHATSAPP:
++351 928 310 677
+
+SERVIÇOS:
+- Esquentadores
+- Caldeiras
+- Termoacumuladores
+- Termossifão
+- Bomba de Calor
+- Eletricidade
+
+REMOVIDOS:
+- Canalização
+- Desentupimentos
+- Estores e Persianas
+- Instagram
+
+ARQUIVOS DA LOGO:
+- assets/logo-fixmaster.png (logo original enviada)
+- assets/logo-header.png (versão otimizada para cabeçalho/rodapé)
+- assets/favicon.png
+
+OBSERVAÇÃO:
+O Facebook continua com link genérico até ser fornecido o link real.
+Confirme também se a indicação de atendimento 24h/7 dias está correta antes da publicação.
+
+
+ATUALIZAÇÃO CONVERSÃO:
+- Telefone priorizado como CTA principal.
+- WhatsApp mantido como apoio para fotos/detalhes.
+- Barra fixa no mobile com Ligar agora.
+- Botão flutuante de telefone no desktop.
+
+PÁGINA LEGAL ADICIONADA:
+- termos-condicoes.html
